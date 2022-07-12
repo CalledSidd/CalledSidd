@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=CalledSidd&theme=tokyonight&show_icons=true&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalledSidd)](https://github.com/anuraghazra/github-readme-stats)
