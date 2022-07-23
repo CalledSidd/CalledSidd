@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=CalledSidd&theme=tokyonight&show_icons=true&count_private=true)
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="left">A passionate developer from India</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
