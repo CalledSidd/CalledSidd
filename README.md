@@ -1,7 +1,4 @@
 
-![fc-rx7](https://user-images.githubusercontent.com/64461639/193253954-b46bb604-0192-40c7-a0eb-032e9fe2f26b.jpg)
-
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=CalledSidd&theme=tokyonight&show_icons=true&count_private=true)
 <h2 align="left">A Developer</h2>
 
