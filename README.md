@@ -1,11 +1,10 @@
 
-<!--
-**CalledSidd/CalledSidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![fc-rx7](https://user-images.githubusercontent.com/64461639/193253954-b46bb604-0192-40c7-a0eb-032e9fe2f26b.jpg)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=CalledSidd&theme=tokyonight&show_icons=true&count_private=true)
 <h2 align="left">A Developer</h2>
-![fc-rx7](https://user-images.githubusercontent.com/64461639/193253667-96b9f9b9-5c03-4f69-9323-9f5bcc5822c6.jpg)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
