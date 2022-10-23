@@ -1,5 +1,4 @@
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=CalledSidd&theme=tokyonight&show_icons=true&count_private=true)
 <h2 align="left">A Developer</h2>
 
 
@@ -16,4 +15,4 @@
 
 
 
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=CalledSidd&theme=tokyonight&show_icons=true&count_private=true)
