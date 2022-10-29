@@ -8,6 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalledSidd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
 - 🌱 I’m currently learning Python, Django, React
 
 - 📫 How to reach me **sidharthsidhu12317@gmail.com**
