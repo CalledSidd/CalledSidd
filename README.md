@@ -2,8 +2,11 @@
 
 ![Git hub readme image](https://user-images.githubusercontent.com/64461639/198815781-c2feaa8a-4190-45f3-9763-f4137eee963a.jpg)
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/CalledSidd/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalledSidd)](https://github.com/CalledSidd/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalledSidd&show_icons=true) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalledSidd&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalledSidd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning Python, Django, React
 
