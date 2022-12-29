@@ -7,6 +7,8 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalledSidd)](https://github.com/CalledSidd/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalledSidd&show_icons=true) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalledSidd&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalledSidd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
    <p align="center">
         <a href="https://twitter.com/calledsidd" target="blank"><img align="center"
@@ -28,4 +30,3 @@
     </p>
     <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalledSidd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
