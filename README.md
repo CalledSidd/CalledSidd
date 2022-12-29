@@ -7,6 +7,22 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalledSidd)](https://github.com/CalledSidd/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalledSidd&show_icons=true) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalledSidd&show_icons=true&theme=dark)
+<hr>
+   <p align="center">
+        <a href="https://twitter.com/calledsidd" target="blank"><img align="center"
+                src="https://skillicons.dev/icons?i=twitter"
+                alt="calledsidd" height="30" width="40" /></a>
+                <span>________</span>
+        <a href="https://www.linkedin.com/in/sidharth-s-332501224/" target="blank"><img
+                align="center"
+                src="https://skillicons.dev/icons?i=linkedin"
+                alt="Sidharth S" height="30" width="40" /></a>
+                <span>________</span>
+        <a href="https://www.instagram.com/calledsidd/" target="blank"><img align="center"
+                src="https://skillicons.dev/icons?i=instagram"
+                alt="calledsidd" height="30" width="40" /></a>
+    </p>
+    <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalledSidd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -19,6 +35,7 @@
 <a href="https://instagram.com/calledsidd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="calledsidd" height="30" width="40" /></a>
 <a href="https://discord.gg/vyppiee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vyppiee" height="30" width="40" /></a>
 </p>
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
