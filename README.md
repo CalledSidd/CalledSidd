@@ -1,7 +1,7 @@
 
 
 <br>
-- 🌱 I’m currently learning Python, Django, React
+- 🌱 I’m currently learning sveltekit
 
 - 📫 How to reach me **sidharthsidhu12317@gmail.com**
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalledSidd)](https://github.com/CalledSidd/github-readme-stats)
