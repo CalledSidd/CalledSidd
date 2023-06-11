@@ -5,4 +5,5 @@
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <!-- <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%"> -->
 
-<img src='https://gifdb.com/images/high/anime-celty-sturluson-79m4jzscabdxc4ix.gif'>
+<img src='https://gifdb.com/images/high/anime-celty-sturluson-79m4jzscabdxc4ix.gif' width='100%' height='100%'>
+<!-- <img src='https://media.tenor.com/uD-5dK8rY34AAAAC/raiden-shogun-genshin-impact.gif' width='100%' height='100%'>   -->
