@@ -5,4 +5,4 @@
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <!-- <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%"> -->
 
-<img src='https://gifdb.com/images/high/anime-spike-spiegel-smoking-1wpclzv00wpt2zg1.gif'>
+<img src='https://gifdb.com/images/high/anime-celty-sturluson-79m4jzscabdxc4ix.gif'>
